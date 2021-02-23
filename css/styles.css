@@ -451,8 +451,12 @@ header {
     margin: 0 auto;
 }
 
+.portfolio-item-individual iframe {
+    max-width: 100%;
+}
+
 .portfolio-item-individual p {
-    max-width: 600px;
+    max-width: 800px;
     margin-left: auto;
     margin-right: auto;
     font-size: var(--fs-body);
