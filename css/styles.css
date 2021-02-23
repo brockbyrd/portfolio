@@ -11,9 +11,9 @@
     --fw-reg: 300;
     --fw-bold: 900;
 
-    --clr-light: #fff;
-    --clr-dark: #303030;
-    --clr-accent: #16e0bd;
+    --clr-light: #FBFBFB;
+    --clr-dark: #484848;
+    --clr-accent: #3EB8F4;
 
     --fs-h1: 3rem;
     --fs-h2: 2.25rem;
@@ -453,6 +453,7 @@ header {
 
 .portfolio-item-individual iframe {
     max-width: 100%;
+    box-shadow: var(--bs);
 }
 
 .portfolio-item-individual p {
