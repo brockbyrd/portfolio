@@ -312,6 +312,32 @@ header {
     }
 }
 
+/* Technical Skills */
+
+/* .tech-skills {
+    background: var(--clr-dark);
+    color: var(--clr-accent);
+    text-align: center;
+    padding: 2.5em 0;
+    font-size: var(--fs-h3);
+}
+
+.section__title--skills {
+    color: var(--clr-accent);
+    position: relative;
+}
+
+.skills-list {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin: 2em 0;
+    padding: 0;
+}
+
+.skills-list__item {
+    margin: 0 .5em;
+} */
 
 /* About Me Section */
 
